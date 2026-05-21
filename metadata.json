@@ -1,0 +1,10 @@
+{
+  "name": "LExium Math",
+  "description": "Motor de Inteligência Auditiva para avaliação de fluência matemática de alunos através de áudio nativo.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
